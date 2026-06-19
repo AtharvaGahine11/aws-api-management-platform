@@ -362,7 +362,7 @@ The monitoring dashboard includes:
 
 ## EC2 Instance
 
-Add Screenshot
+
 
 <img width="1464" height="351" alt="Screenshot 2026-06-19 at 9 44 58 PM" src="https://github.com/user-attachments/assets/612cb142-6496-49e9-87ce-befb2b8a5b70" />
 
