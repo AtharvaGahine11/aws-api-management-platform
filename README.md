@@ -364,33 +364,33 @@ The monitoring dashboard includes:
 
 Add Screenshot
 
-```html
-<img src="screenshots/ec2.png" width="900">
-```
+<img width="1464" height="351" alt="Screenshot 2026-06-19 at 9 44 58 PM" src="https://github.com/user-attachments/assets/612cb142-6496-49e9-87ce-befb2b8a5b70" />
+
 
 ---
 
 ## Amazon RDS
 
-```html
-<img src="screenshots/rds.png" width="900">
-```
+<img width="1465" height="741" alt="Screenshot 2026-06-19 at 9 46 17 PM" src="https://github.com/user-attachments/assets/8e438e14-8e12-43b9-9017-2eb0b0f19629" />
 
 ---
 
 ## API Gateway
 
-```html
-<img src="screenshots/apigateway.png" width="900">
-```
+<img width="1458" height="742" alt="Screenshot 2026-06-19 at 9 47 29 PM" src="https://github.com/user-attachments/assets/0f3b5cac-67b2-42f2-9112-a23768ff4f99" />
+
+<img width="1463" height="740" alt="Screenshot 2026-06-19 at 9 47 47 PM" src="https://github.com/user-attachments/assets/ac32db7d-798f-4dc1-b5e4-8117324e4135" />
 
 ---
 
 ## CloudWatch Dashboard
 
-```html
-<img src="screenshots/cloudwatch.png" width="900">
-```
+<img width="1446" height="820" alt="Screenshot 2026-06-19 at 9 32 11 PM" src="https://github.com/user-attachments/assets/369031d0-22d4-44ad-8536-784af22211b8" />
+
+<img width="1451" height="830" alt="Screenshot 2026-06-19 at 9 33 18 PM" src="https://github.com/user-attachments/assets/a4221b8a-1a7e-41b3-85d7-e746309ef735" />
+
+<img width="1445" height="824" alt="Screenshot 2026-06-19 at 9 33 28 PM" src="https://github.com/user-attachments/assets/dde7fbbd-40e3-46a2-88cc-9a3a426a3ae8" />
+
 
 ---
 
